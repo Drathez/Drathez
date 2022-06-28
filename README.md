@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Drathez
+- 👋 Hi, I’m @Husaini
 - 👀 I’m interested in software development.
 - 🌱 I’m currently learning Frontend development (HTML/CSS/JS/React.JS) and Backend development (Node.JS/SQL)
 
